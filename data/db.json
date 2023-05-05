@@ -1,0 +1,22 @@
+{
+  "ids": {
+    "Task": 7,
+    "TaskList": 5
+  },
+  "models": {
+    "Task": {
+      "1": "{\"title\":\"Take over the galaxy\",\"desc\":\"MWAHAHAHAHAHAHAHAHAHAHAHAHAMWAHAHAHAHAHAHAHAHAHAHAHAHA\",\"taskListId\":1,\"id\":1}",
+      "2": "{\"title\":\"destroy alderaan\",\"desc\":\"Make sure there are no survivors left!\",\"taskListId\":1,\"id\":2}",
+      "3": "{\"title\":\"play space invaders\",\"desc\":\"Become the very best!\",\"taskListId\":2,\"id\":3}",
+      "4": "{\"title\":\"crush rebel scum\",\"desc\":\"Every.Last.One.\",\"taskListId\":1,\"id\":4}",
+      "5": "{\"title\":\"get eggs\",\"isComplete\":false,\"taskListId\":3,\"id\":5}",
+      "6": "{\"title\":\"get fruits\",\"isComplete\":false,\"taskListId\":4,\"id\":6}"
+    },
+    "TaskList": {
+      "1": "{\"title\":\"Sith lord's check list\",\"color\":\"blue\",\"id\":1}",
+      "2": "{\"title\":\"My daily chores\",\"color\":\"red\",\"id\":2}",
+      "3": "{\"title\":\"grocery list\",\"id\":3}",
+      "4": "{\"title\":\"grocery list other\",\"color\":\"red\",\"id\":4}"
+    }
+  }
+}
